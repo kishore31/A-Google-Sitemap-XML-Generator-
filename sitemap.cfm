@@ -1,5 +1,7 @@
 	<cfset ini_root="http://www.example.com/machblog" />
+	
 	<cfset ini_startPage="index.cfm" />
+	
 	<cfset ini_levelMax=3 />
 	<cfset ini_sitemap="http://www.example.com/sitemap.xml" />
 
